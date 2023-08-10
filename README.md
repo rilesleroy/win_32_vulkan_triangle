@@ -12,8 +12,4 @@ I thought that was weird so I made one.
 
 In the future I plan on using this for an intro to Vulkan article.
 
-## TODO
-- Clean up the code a bit
-- Write an article.
-
 ![Triangle](images/triangle.png)
